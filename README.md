@@ -59,9 +59,11 @@ export const store = configureStore({
   reducer: {},
 });
 ```
+## think store as the entire state of the application.Previously, we used contextApi
+
 
 #### Setup Provider
-
+#### react-redux library connects redux store to redux to our app
 - index.js
 
 ```js
@@ -727,5 +729,6 @@ const cartSlice = createSlice({
   },
 });
 ```
-#   R e d u x - T o o l k i t - J s  
+#   R e d u x - T o o l k i t - J s 
+ 
  
