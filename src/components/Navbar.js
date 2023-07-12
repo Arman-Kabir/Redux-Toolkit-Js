@@ -1,5 +1,5 @@
-import { CartIcon, Testing } from '../icons';
-import { UseSelector, useSelector } from 'react-redux';
+import { CartIcon} from '../icons';
+import {  useSelector } from 'react-redux';
 
 
 import React from 'react'
